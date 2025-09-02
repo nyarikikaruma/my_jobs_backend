@@ -19,7 +19,8 @@ return [
 
     'allowed_methods' => ['*'],
 
-    'allowed_origins' => ['http://localhost:3000', 'https://my-jobs-frontend.vercel.app'], // Your Nuxt dev server
+    'allowed_origins' => ['http://localhost:3000', 'https://my-jobs-frontend.vercel.app', 'http://62.171.190.239'],
+     // Your Nuxt dev server
 
     'allowed_origins_patterns' => [],
 
